@@ -20,7 +20,9 @@ main {
 section {
     border-top: 1px solid #ccc;
 }
-
+h2{
+    margin-top: 3px;
+}
 h1, h2 {
     color: rgb(140, 76, 8);
 
